@@ -26,7 +26,7 @@ I'm a software engineering student and developer passionate about building clean
 ### 🚀 Featured Projects & Work
 
 * **[Structured Health](https://github.com/johnbyui22004/structured-health)** — *TypeScript*  
-  A brief one-sentence description of what this application does and the problem it solves.
+  A full-stack health tracking web application featuring user authentication, backend API integration, and persistent data storage.
 * **[Applied Programming](https://github.com/johnbyui22004/Applied-Programming)** — *C#*  
   A collection of software engineering modules demonstrating object-oriented design and data structures.
 * **[Web Frontend Development (WDD131)](https://github.com/johnbyui22004/WDD131)** — *HTML / CSS / JavaScript*  
